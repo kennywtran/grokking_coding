@@ -86,7 +86,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## K-way merge
 
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [X] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 - [ ] [Kth Smallest Number in M Sorted Lists](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
 
@@ -108,7 +108,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [X] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
@@ -130,7 +130,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Subsets](https://leetcode.com/problems/subsets/)
 
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
+- [X] [Permutations](https://leetcode.com/problems/permutations/)
 
 - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
@@ -152,7 +152,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Backtracking
 
-- [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
+- [X] [N-Queens](https://leetcode.com/problems/n-queens/)
 
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 
@@ -170,7 +170,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 
-- [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [X] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
@@ -184,7 +184,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
 
-- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [X] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
 - [ ] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
@@ -196,7 +196,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Compilation Order]()?
 
-- [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+- [X] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
 - [ ] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
@@ -232,11 +232,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ## Tree Breadth First Search
 
-- [ ] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
@@ -250,7 +250,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
-- [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
+- [X] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
 - [ ] [Replace Words](https://leetcode.com/problems/replace-words/)
 
@@ -270,7 +270,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-- [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- [X] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
@@ -280,7 +280,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [X] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 - [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 
@@ -294,7 +294,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 - [ ] [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
 
@@ -314,7 +314,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [X] [Min Stack](https://leetcode.com/problems/min-stack/)
 
 - [ ] [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 
