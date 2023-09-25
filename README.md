@@ -30,7 +30,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
-- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [X] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 - [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
@@ -44,11 +44,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [X] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 ## Merge Intervals
 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
@@ -60,7 +60,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## In-place Reversal of a Linked List
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
@@ -80,7 +80,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
-- [ ] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [X] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 - [ ] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
 
