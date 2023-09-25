@@ -11,7 +11,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [X] Solved
 
 ## Sliding Window
-- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
+- [X] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
 
 - [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-substring/)
 
@@ -23,7 +23,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
