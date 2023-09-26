@@ -92,7 +92,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [X] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 - [ ] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
@@ -120,7 +120,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 
-- [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+- [X] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
 - [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
@@ -128,7 +128,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Subsets
 
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
+- [X] [Subsets](https://leetcode.com/problems/subsets/)
 
 - [X] [Permutations](https://leetcode.com/problems/permutations/)
 
@@ -144,7 +144,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
-- [ ] [Gas Stations](https://leetcode.com/problems/gas-station/)
+- [X] [Gas Stations](https://leetcode.com/problems/gas-station/)
 
 - [ ] [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 
@@ -218,7 +218,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Tree Depth First Search
 
