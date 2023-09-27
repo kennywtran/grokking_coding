@@ -320,17 +320,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Bitwise Manipulation
 
-- [ ] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+- [X] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
 
-- [ ] [Complement of Base 10 Number](https://leetcode.com/problems/complement-of-base-10-integer/)
+- [X] [Complement of Base 10 Number](https://leetcode.com/problems/complement-of-base-10-integer/)
 
-- [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+- [X] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
+- [X] [Single Number](https://leetcode.com/problems/single-number/)
 
-- [ ] [Two Single Numbers](https://leetcode.com/problems/single-number-iii/)
+- [X] [Two Single Numbers](https://leetcode.com/problems/single-number-iii/)
 
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [X] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ## Challenge Yourself
 
@@ -339,7 +339,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
