@@ -260,17 +260,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Hash Maps
 
-- [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
+- [X] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
 
 - [ ] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 
 - [ ] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
-- [ ] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
+- [X] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
 - [X] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
-- [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [X] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
 ## Knowing What to Track
 
