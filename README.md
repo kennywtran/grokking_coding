@@ -19,18 +19,18 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [X] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 - [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+- [X] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
 - [X] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
-- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [X] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Fast and Slow Pointers
 
