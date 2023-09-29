@@ -48,13 +48,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [X] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
-- [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+- [X] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
-- [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
+- [X] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
-- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [X] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ## In-place Reversal of a Linked List
 
@@ -206,7 +206,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Stacks
 
-- [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+- [X] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 
 - [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
