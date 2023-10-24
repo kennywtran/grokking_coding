@@ -166,11 +166,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [0/1 Knapsack]()?
 
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [X] [Coin Change](https://leetcode.com/problems/coin-change/)
 
 - [X] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
-- [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [X] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
 - [ ] [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
