@@ -180,7 +180,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Cyclic Sort
 
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [X] [Missing Number](https://leetcode.com/problems/missing-number/)
 
 - [X] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
